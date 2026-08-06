@@ -3,7 +3,7 @@
 **Modelo:** Clube de assinatura semanal de vegetais orgânicos, com fornecedores regionais entregando em um Centro de Distribuição (CD) próprio para separação, embalagem e delivery ao cliente final, respeitando a sazonalidade das safras.
 
 **Data:** Agosto/2026
-**Versão:** 1.0 (documento vivo — revisar trimestralmente)
+**Versão:** 1.1 — inclui pesquisa de mercado por capital, metodologia de fornecedores em 100km, análise de escalabilidade e veredito de viabilidade (documento vivo — revisar trimestralmente)
 
 ---
 
@@ -27,10 +27,14 @@ Este documento cobre: mercado, modelo de negócio, operação (fornecedores → 
 
 ### 2.1 Panorama e tendências
 
-- O consumo de orgânicos no Brasil vem crescendo de forma consistente (dois dígitos ao ano) nos últimos anos, puxado por saúde, bem-estar e preocupação ambiental — mas ainda é um mercado pequeno em penetração (menos de 5% dos domicílios compram orgânico com regularidade), o que significa **espaço de crescimento grande, mas também trabalho de educação de mercado**.
-- O canal de venda direta (assinatura, e-commerce, clubes) tem crescido mais rápido que o canal físico tradicional (feira, hortifruti), especialmente em capitais e regiões metropolitanas.
-- Sazonalidade é vista pelo consumidor como sinônimo de "mais fresco e mais barato" quando bem comunicada — é um ativo de marketing, não só uma restrição operacional.
-- Pós-pandemia, o hábito de assinatura recorrente (clubes de vinho, café, beleza) já é familiar ao consumidor brasileiro, reduzindo fricção de adoção do modelo "clube".
+*Dados de mercado (fontes: Organis, IBGE/PNAD Contínua, IMARC Group, MAPA/CNPO — ver seção 2.5 para lista completa de fontes).*
+
+- O mercado brasileiro de alimentos orgânicos foi avaliado em **US$ 4,3 bilhões em 2025**, com projeção de chegar a **US$ 16,7 bilhões até 2034** (CAGR ~15,9% no período) segundo a IMARC Group — um crescimento estrutural, não um pico conjuntural.
+- O volume de produção orgânica no Brasil cresceu **12% em relação ao ano anterior**, o maior índice já registrado (Organis).
+- A penetração de consumo quase dobrou em 6 anos: **15% dos domicílios brasileiros tinham algum orgânico à mesa em 2017, contra 36% em 2023** (Organis) — ainda longe da saturação, o que sustenta a tese de espaço de crescimento.
+- **Insight relevante para a escolha de mercado:** a penetração de consumo **não** é maior nas capitais mais ricas. Por região, o Nordeste lidera com 45% de penetração, seguido do Centro-Oeste com 42%, e o Sudeste (SP/RJ) vem **por último entre as regiões, com 30%**. Isso quebra a intuição óbvia de "começar em São Paulo por ser a maior e mais rica praça" — o Sudeste é onde a categoria, proporcionalmente, ainda penetrou menos.
+- Preços de orgânicos in natura (verduras, legumes, frutas, ovos) caíram até 8% em média segundo o IBGE, ampliando o acesso a diferentes perfis de renda — bom para o TAM, mas também sinaliza pressão de preço estrutural no setor (ver seção 11 e 16).
+- O canal de venda direta (assinatura, e-commerce, clubes) cresce mais rápido que o canal físico tradicional (feira, hortifruti), especialmente em capitais e regiões metropolitanas. O hábito de assinatura recorrente (clubes de vinho, café, beleza) já é familiar ao consumidor brasileiro, reduzindo a fricção de adoção do modelo "clube".
 - Grandes redes de varejo (Pão de Açúcar, Carrefour, St Marche) têm ampliado gôndolas orgânicas, e apps de entrega geral (iFood Mercado, Rappi, Zé Delivery) também vendem hortifruti — **a ameaça competitiva de conveniência é real**, mas eles competem em sortimento amplo, não em curadoria + sazonalidade + relação direta com produtor.
 
 ### 2.2 Público-alvo
@@ -48,7 +52,63 @@ Este documento cobre: mercado, modelo de negócio, operação (fornecedores → 
 | E-commerce/hortifruti online | Apps de entrega geral, hortifrutis com delivery próprio | Conveniência, sortimento amplo | Curadoria fraca, não é 100% orgânico, sem narrativa de sazonalidade/produtor |
 | Supermercado premium | Redes com seção orgânica | Confiança de marca, ponto físico | Preço alto, produto às vezes não é tão fresco, zero relação direta com produtor |
 
+**Concorrentes diretos identificados no Brasil (mapeamento de mercado, ago/2026):**
+
+| Player | Praça | Modelo de preço observado |
+|---|---|---|
+| Flora Orgânicos | Brasília (DF) | A partir de R$ 26/entrega, escolha de quantidade |
+| Clube Orgânico | Não regionalizado / múltiplas praças | R$ 45,95 – R$ 95,90/entrega, por tamanho de cesta |
+| Clube +Q (Mais Quitanda) | Não regionalizado | R$ 54 – R$ 240/mês, por peso |
+| Terra Forte Orgânicos | Não regionalizado | Assinatura semanal, frete grátis |
+| Horti Clube (iFrutus) | São Paulo (SP) | 3 opções de cesta orgânica |
+| Fungo de Quintal | Não regionalizado (nicho cogumelos) | A partir de R$ 25/mês |
+
+**Leitura estratégica:** o modelo já está validado no Brasil — não é preciso "inventar a categoria". Mas todos os players mapeados operam em **escala pequena/regional, com tecnologia simples e preço de entrada baixo** (R$ 25–95 na maioria dos casos). Isso é duplamente informativo: (a) confirma demanda real e disposição a pagar; (b) sugere que **ninguém ainda resolveu a escala** — a oportunidade não é só "entrar no mercado", é "ser o primeiro a profissionalizar e escalar a categoria" com tecnologia própria dos dois lados (fornecedor/cliente) e operação de CD estruturada.
+
 **Posicionamento do Clube.org:** "a cesta da estação, direto do produtor regional, sem você precisar pensar nisso toda semana."
+
+---
+
+### 2.4 Comparativo entre capitais candidatas (pesquisa de mercado para escolha da praça-piloto)
+
+Cinco variáveis definem se uma capital é boa candidata para o piloto e para a ordem de expansão: **(1) densidade de fornecedores certificados a até ~100km** (viabiliza o modelo de CD regional), **(2) poder de compra**, **(3) penetração de consumo de orgânicos na região**, **(4) intensidade de concorrência já instalada**, e **(5) tamanho do mercado endereçável (população)**.
+
+| Capital | População (2025) | Renda domiciliar per capita do estado (2025) | Penetração de orgânicos na região | Produtores certificados no estado (CNPO) | Concorrência direta já mapeada | Cinturão verde / oferta regional |
+|---|---|---|---|---|---|---|
+| **Curitiba (PR)** | 1,83 mi cidade / 3,72 mi região metropolitana | R$ 2.762 (5º maior do país) | Sul (sem dado regional quebrado na pesquisa) | **4.510 — o maior do Brasil**, impulsionado pelo programa estadual Paraná Mais Orgânico | Nenhum player nacional mapeado na praça | Cinturão Verde de Curitiba é polo histórico de hortaliças/agrião no Sul |
+| **Porto Alegre (RS)** | Região metropolitana 4,17 mi (cidade em leve queda) | R$ 2.839 (3º maior) | Sul | **3.273 — 2º maior do Brasil** | Nenhum player nacional mapeado na praça | Citada como um dos polos de agrião/hortaliças do Sul, junto com Curitiba e BH |
+| **Brasília (DF)** | 3,0 mi | **R$ 4.538 — a maior renda per capita do país** (quase o dobro da média nacional) | Centro-Oeste 42% (2ª maior penetração regional) | Não identificado no ranking nacional pela pesquisa (gap — validar no CNPO) | **Já existe concorrente direto operando (Flora Orgânicos)** | Produção agrícola do entorno do DF existe, mas cinturão verde tradicional é menos documentado que SP/PR/RS |
+| **São Paulo (SP)** | **11,9 mi — maior capital do país** | R$ 2.956 (2º maior) | Sudeste 30% — **a menor penetração entre as regiões** | Não identificado no topo do ranking nacional pela pesquisa (gap — validar no CNPO) | Mercado mais concorrido: Horti Clube e outros players de hortifruti online já atuam | **Maior cinturão verde do país** (Ibiúna, Mogi das Cruzes, Biritiba Mirim — "capital estadual do agrião") |
+| **Florianópolis (SC)** | Região metropolitana 1,49 mi — **maior taxa de crescimento entre as capitais grandes (+1,93%/ano)** | R$ 2.809 (4º maior) | Sul | Não identificado no ranking nacional pela pesquisa (gap — validar no CNPO) | Nenhum player nacional mapeado na praça | Cinturão verde da Grande Florianópolis documentado como fonte de abastecimento de hortifruti local |
+
+**Leitura da tabela:**
+
+- **Curitiba desponta como a melhor candidata a piloto**: maior densidade de fornecedores certificados do Brasil por larga margem (reduz o risco #1 do modelo — depender de poucos fornecedores), renda per capita sólida, cinturão verde já estruturado para hortaliças, e **nenhum concorrente nacional relevante identificado na praça** — janela de "primeiro a escalar" mais aberta que em SP ou Brasília.
+- **Porto Alegre é a segunda melhor opção** pelo mesmo racional (2º maior estado em fornecedores certificados, sem concorrência mapeada, cinturão verde documentado).
+- **Brasília tem o maior poder de compra do país e a 2ª maior penetração regional de orgânicos**, mas já tem um concorrente operando — o que valida a demanda local, mas exige diferenciação clara desde o dia 1, e falta evidência de densidade de fornecedores na pesquisa (precisa validação direta no CNPO antes de decidir).
+- **São Paulo é o maior mercado endereçável em volume absoluto** e tem a melhor infraestrutura de fornecimento (maior cinturão verde do país), mas combina a **menor penetração regional de consumo** com a **maior concorrência já instalada** — atrativo para uma fase de expansão (2ª ou 3ª cidade), mas mais arriscado como piloto por exigir mais investimento em educação de mercado e diferenciação competitiva simultaneamente.
+- **Florianópolis é uma aposta de nicho de alto potencial**: menor mercado em volume, mas maior crescimento populacional entre capitais grandes, renda alta e público historicamente afinado com consumo consciente — boa candidata a 3ª/4ª praça, não a piloto (mercado pequeno demais para validar unit economics com margem de erro confortável).
+
+**Recomendação de sequência de expansão:** Curitiba (piloto) → Porto Alegre (2ª praça, mesma lógica de fornecimento no Sul, permite compartilhar aprendizado logístico) → São Paulo (3ª praça, maior mercado, mas só depois de operação madura) → Brasília e Florianópolis (4ª/5ª praças, nichos de alto ticket).
+
+*Limitação importante: os dados de produtores certificados por estado (CNPO) são agregados estaduais, não um raio de 100km em torno de cada capital especificamente. Antes de decidir a praça-piloto, é indispensável cruzar esse dado com uma consulta direta e filtrada por município no portal do CNPO (ver metodologia na seção 4.1.1) — o comparativo acima é um funil de priorização, não a decisão final.*
+
+### 2.5 Fontes da pesquisa de mercado
+
+- [Qual o tamanho do mercado de orgânicos no Brasil? — Organis](https://organis.org.br/pensando_organico/qual-o-tamanho-do-mercado-de-organicos-no-brasil/)
+- [Brazil Organic Food Market — IMARC Group](https://www.imarcgroup.com/brazil-organic-food-market)
+- [Produção de alimentos orgânicos cresce no Brasil em 2025](https://espacoorganicoenatural.com.br/2025/05/19/producao-de-alimentos-organicos-cresce-no-brasil-em-2025/)
+- [Cadastro Nacional de Produtores Orgânicos (CNPO) — MAPA](https://www.gov.br/agricultura/pt-br/assuntos/sustentabilidade/organicos/cadastro-nacional-de-produtores-organicos-cnpo)
+- [Portal de Dados Abertos — CNPO](https://dados.agricultura.gov.br/dataset/cadastro-nacional-de-produtores-organicos)
+- [Paraná lidera produção de orgânicos no Brasil com mais de 4,5 mil produtores certificados](https://www.band.com.br/band-parana/noticias/parana-lidera-producao-de-organicos-no-brasil-com-mais-de-45-mil-produtores-certificados-202508131533/amp)
+- [IBGE: Renda per capita tem recorde em 2025](https://www.infomoney.com.br/economia/ibge-renda-per-capita-tem-recorde-em-2025-mas-ganho-dos-ricos-eleva-desigualdade/)
+- [DF tem maior renda per capita do país em 2025, segundo IBGE](https://www.correiobraziliense.com.br/cidades-df/2026/02/7364515-df-tem-maior-renda-per-capita-do-pais-em-2025-segundo-ibge.html)
+- [Brasil tem 15 cidades com mais de 1 milhão de habitantes — Agência Brasil](https://agenciabrasil.ebc.com.br/economia/noticia/2025-08/brasil-tem-15-cidades-com-mais-de-1-milhao-de-habitantes)
+- [População na Grande Curitiba cresce em 2025 e supera 3,7 milhões](https://www.bemparana.com.br/noticias/parana/populacao-na-grande-curitiba-cresce-em-2025-e-supera-a-marca-de-37-milhoes/)
+- [Cinturão Verde: o que é, importância — Grancursos](https://faculdade.grancursosonline.com.br/blog/cinturao-verde/)
+- [O cinturão verde que abastece a Grande Florianópolis](https://ndmais.com.br/economia/o-cinturao-verde-que-abastece-a-grande-florianopolis/)
+- [Conheça 8 clubes de assinatura gastronômicos](https://gpsbrasilia.com.br/conheca-8-clubes-de-assinatura-gastronomicos/)
+- [Horti Clube — Clube de Assinaturas de Hortifruti — iFrutus](https://www.ifrutus.com.br/horti-clube)
 
 ---
 
@@ -82,10 +142,23 @@ Semanal como padrão, com opção quinzenal para reduzir churn de quem acha sema
 
 ### 4.1 Fornecedores regionais
 
-- Recrutamento de uma rede de **8–15 produtores regionais** na fase inicial (raio de até ~150km do CD), priorizando diversidade de cultivo para cobrir sazonalidade sem depender de 1–2 fazendas.
+- Recrutamento de uma rede de **8–15 produtores regionais** na fase inicial, **em raio de até 100km do CD** — limite escolhido para manter o produto colhido há menos de 24–48h na cesta (a essência da proposta de "fresco e sazonal") e para manter o frete de coleta economicamente viável em rota curta.
 - Cada fornecedor declara **disponibilidade semanal e preço** via app/portal próprio, com prazo de corte (ex.: sexta-feira 18h) para o CD montar o mapa de compras da semana.
 - Contrato simples de fornecimento com: certificação orgânica válida (obrigatória), política de preço (fixo por safra ou reajuste por tabela), volume mínimo/máximo, prazo de pagamento (recomendado: semanal ou quinzenal, para reter fornecedores pequenos que não têm caixa para prazos longos).
 - Auditoria de certificação orgânica (ver seção 7 — Compliance).
+- **Diversificação obrigatória:** nenhum fornecedor deve responder por mais de ~20–25% do volume de compras semanal na fase inicial, mesmo que isso signifique pagar um pouco mais caro a um segundo/terceiro fornecedor redundante — é o seguro contra o risco #1 do modelo (quebra de safra de um único parceiro).
+
+#### 4.1.1 Metodologia para mapear fornecedores em 100km de cada capital
+
+O comparativo da seção 2.4 usa dados **estaduais** do CNPO (Cadastro Nacional de Produtores Orgânicos), porque a busca de mercado não permite filtrar por raio geométrico. Antes de decidir a praça-piloto, o passo obrigatório é:
+
+1. Acessar o **CNPO** no Portal de Dados Abertos do MAPA ([dados.agricultura.gov.br/dataset/cadastro-nacional-de-produtores-organicos](https://dados.agricultura.gov.br/dataset/cadastro-nacional-de-produtores-organicos)) e baixar a planilha de produtores certificados.
+2. Filtrar por **município** (não só estado) e cruzar com uma lista dos municípios a até 100km da capital candidata (ex.: para Curitiba, isso inclui a própria Região Metropolitana de Curitiba — hoje com 3,72 milhões de habitantes — além de municípios do 2º anel).
+3. Geocodificar os municípios filtrados e calcular a distância real até o ponto proposto do CD (não a distância até o centro da capital — o CD pode ficar deliberadamente mais próximo do cinturão produtor que do centro urbano, desde que a logística de entrega ao cliente final ainda seja viável).
+4. Classificar os produtores resultantes por cultura (para garantir cobertura de sazonalidade: folhosas, raízes, frutas, etc. — não adianta ter 20 fornecedores de alface e nenhum de raízes).
+5. Fazer contato direto com uma amostra (10–20 produtores) para validar disposição real a fornecer em regime de recorrência semanal — o cadastro mostra quem *pode* fornecer, não quem *vai* fornecer nas condições do clube.
+
+*Esse levantamento fino é trabalho de campo/analista de dados de ~1–2 semanas e deveria ser o primeiro passo prático após a leitura deste plano, antes de qualquer investimento em tecnologia ou CD.*
 
 ### 4.2 Centro de Distribuição (CD)
 
@@ -273,7 +346,44 @@ Dado o perfil (operação física + tecnologia), o caminho mais comum é: **capi
 
 ---
 
-## 12. Roadmap de Implementação
+## 12. Escalabilidade e Modelo de Expansão
+
+O pedido central deste plano é que o negócio **seja escalável**. É importante ser honesto sobre o que isso significa aqui: este não é um negócio de software puro (marginal cost ≈ zero por novo usuário) — é um negócio **físico e operacional** (CD, cadeia fria, frota, produto perecível). Isso não o impede de escalar, mas define **qual tipo de escala é realista**.
+
+### 12.1 O que escala "de graça" (ativos de software, replicáveis em qualquer praça nova)
+
+- Site, loja online e apps de cliente/fornecedor — construídos uma vez, reutilizados em todas as praças.
+- Marca, conteúdo, playbook de marketing e programa de indicação.
+- Backend de gestão de compras/estoque/roteirização — o mesmo motor serve múltiplos CDs.
+- Relacionamento com gateway de pagamento, processos de compliance/contrato-padrão com fornecedores.
+
+### 12.2 O que **não** escala automaticamente (precisa ser recriado a cada praça nova)
+
+- O CD físico e a cadeia fria.
+- A frota/parceria de última milha local.
+- A rede de fornecedores regionais (100km) — relação de confiança e contrato local, não é algo que se "copia e cola" de uma cidade para outra.
+- A equipe operacional de separação/embalagem.
+
+### 12.3 Modelo de expansão recomendado: "CD-in-a-box" replicável, não "hub único nacional"
+
+Dado o ponto acima, o caminho de escala correto **não é** um único CD gigante tentando atender o Brasil inteiro (a logística de perecível inviabiliza distância longa), e também **não é** abrir todas as praças ao mesmo tempo. O modelo recomendado é um **playbook replicável por capital**, com portão de decisão (go/no-go) antes de abrir a praça seguinte:
+
+1. **Provar a unidade econômica em 1 praça-piloto** (seção 2.4 recomenda Curitiba) até bater metas mínimas de churn (<10%/mês), margem de contribuição e CAC/LTV saudável, por pelo menos 2–3 ciclos trimestrais consecutivos.
+2. **Documentar o playbook operacional** (como abrir um CD, como recrutar os primeiros 10 fornecedores, como configurar o app para uma nova praça) como um manual replicável, não conhecimento tácito de uma pessoa.
+3. **Abrir a 2ª praça reaproveitando 80%+ da tecnologia** e testando o playbook operacional "no papel" — se a 2ª praça atingir os KPIs mais rápido que a 1ª (graças ao playbook), é sinal real de escalabilidade.
+4. **Só então acelerar o ritmo de abertura** de novas praças (ex.: 1 nova capital a cada 2–3 meses), sempre com o mesmo portão de decisão.
+
+Esse modelo é conhecido no mercado de food-tech/last-mile como **"roll-up regional"**: cada praça precisa ser lucrativa (ou no mínimo com contribuição positiva) por si só — a escala não vem de subsidiar operação deficitária com capital de investidor indefinidamente, vem de replicar uma unidade que já funciona.
+
+### 12.4 Alavancas reais de escala dentro de cada praça já aberta
+
+- **Aumento de densidade de entrega** (mais assinantes por rota = menor custo de última milha por pedido) — a maior alavanca de margem depois do CAC.
+- **Ampliação de sortimento** (add-ons: ovos, mel, pães, temperos) para aumentar ticket médio sem aumentar complexidade agrícola.
+- **B2B** (fruteira de escritório, parcerias com academias/coworkings) como segundo motor de crescimento dentro da mesma praça, aproveitando o mesmo CD.
+
+---
+
+## 13. Roadmap de Implementação
 
 | Fase | Duração | Objetivo | Entregáveis-chave |
 |---|---|---|---|
@@ -284,7 +394,7 @@ Dado o perfil (operação física + tecnologia), o caminho mais comum é: **capi
 
 ---
 
-## 13. Indicadores-Chave (KPIs)
+## 14. Indicadores-Chave (KPIs)
 
 - **Crescimento:** novos assinantes/mês, taxa de conversão do site/loja para assinatura.
 - **Retenção:** churn mensal, taxa de pausa vs. cancelamento, NPS.
@@ -294,11 +404,38 @@ Dado o perfil (operação física + tecnologia), o caminho mais comum é: **capi
 
 ---
 
-## 14. Próximos Passos Recomendados
+## 15. Veredito de Viabilidade e Escalabilidade
+
+**Pergunta direta: o negócio é viável? É escalável?**
+
+### Viável — sim, com ressalvas, e a evidência de mercado sustenta essa resposta.
+
+O maior risco de qualquer plano de negócio é "essa demanda existe de verdade?". Aqui, a resposta é sim, e não é uma hipótese — **é um fato observável**: pelo menos seis operações (Flora Orgânicos, Clube Orgânico, +Q, Terra Forte, Horti Clube, Fungo de Quintal) já cobram de brasileiros por exatamente este modelo, o mercado orgânico cresce ~16% ao ano em valor, e a penetração de consumo quase dobrou desde 2017. Isso remove o maior risco binário (existe ou não existe mercado) da mesa.
+
+Com disciplina operacional (fornecedores diversificados, cadeia fria bem gerida, churn monitorado de perto), a matemática unitária do modelo (seção 11.3) é positiva: ticket médio de ~R$ 440–475/mês por assinante, margem operacional-alvo de 10–18%, CAC administrável via indicação. **Isso é um negócio regional saudável e defensável.**
+
+### Escalável — sim, mas não no sentido "software", e é aqui que a maioria dos negócios parecidos no mundo tropeça.
+
+Esse é o ponto que exige honestidade, porque é onde negócios desse tipo costumam prometer mais do que entregam:
+
+- **O que NÃO é verdade:** que este negócio escala como um app ou marketplace, com custo marginal baixo por nova cidade. Cada praça nova exige recriar CD, frota, cadeia fria e rede de fornecedores locais — ativos físicos, não digitais. Categorias parecidas no mundo (assinatura de meal-kit/hortifruti) têm histórico global de **margens finas e dificuldade real de escalar rápido mantendo qualidade** — é um padrão setorial, não uma falha de execução específica deste plano.
+- **O que É verdade:** dentro desse limite físico, o modelo **é** escalável de forma disciplinada — replicando um playbook operacional provado, praça por praça (seção 12.3), com tecnologia compartilhada entre todas elas. Não escala por "ligar um switch", escala por **execução repetida e disciplinada de um manual que já funcionou uma vez**.
+
+### Condição para a viabilidade se sustentar no médio prazo
+
+A variável que mais decide o sucesso ou fracasso **não é aquisição de clientes — é retenção**. Um clube de assinatura de perecível vive ou morre pelo churn: se ficar consistentemente acima de ~15%/mês, o CAC nunca se paga e o negócio queima caixa indefinidamente, não importa quão bom seja o produto. Se ficar abaixo de ~10%/mês, o modelo se sustenta e a expansão praça a praça (seção 12) é genuinamente executável.
+
+### Recomendação final
+
+**Prosseguir — mas em modo de validação, não de expansão imediata.** Rodar a Fase 0 (seção 13, validação manual com ~50 clientes em 1 praça) antes de qualquer investimento pesado em tecnologia ou CD permanente. Se o piloto sustentar churn saudável e margem de contribuição positiva por 2–3 trimestres, o caso de negócio (e o caso de escala) está provado com dados próprios — não apenas com a evidência indireta deste documento — e a expansão praça a praça deixa de ser uma aposta para virar execução de um modelo validado.
+
+---
+
+## 16. Próximos Passos Recomendados
 
 1. Rodar a **Fase 0 (validação manual)** com 3–5 fornecedores e ~50 clientes piloto antes de investir pesado em tecnologia — reduz risco e gera dados reais para o modelo financeiro.
 2. Construir um **modelo financeiro detalhado mês a mês** (24 meses) a partir dos números reais do piloto, refinando as estimativas deste documento.
-3. Definir a **cidade/bairro piloto** com base em concentração do público-alvo e proximidade de fornecedores regionais qualificados (certificação orgânica válida).
+3. Validar **Curitiba como praça-piloto** (indicação da seção 2.4) com o levantamento fino de fornecedores em 100km descrito na seção 4.1.1, e definir o bairro/região de instalação do CD com base na proximidade real do cinturão verde.
 4. Desenhar o **MVP tecnológico enxuto** (plataforma pronta + integrações), evitando desenvolvimento proprietário caro antes de validar retenção.
 5. Formalizar **contratos-padrão com fornecedores** (preço, volume, prazo de pagamento, auditoria de certificação).
 
