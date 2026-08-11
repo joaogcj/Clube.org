@@ -344,6 +344,17 @@ Modelo enxuto no início (fundadores acumulando funções), profissionalizando a
 
 Dado o perfil (operação física + tecnologia), o caminho mais comum é: **capital semente próprio/família e amigos** para validar em 1 bairro/região por 3–6 meses → captação com **investidor-anjo ou fundo pré-seed** para escalar tecnologia e expandir área de entrega, usando os dados reais de churn/CAC/LTV do piloto como prova.
 
+### 11.5 Payback do investimento inicial
+
+Rodando o cenário-base do modelo financeiro (EBITDA mensal acumulado, ver `materiais-investidores/Modelo_Financeiro.xlsx`, aba "Projeção 24 Meses"), o payback do investimento inicial (seção 11.1) fica:
+
+| Cenário de investimento | Payback estimado |
+|---|---|
+| R$ 275.000 (piso da faixa) | ≈ 11 meses |
+| R$ 580.000 (teto da faixa) | ≈ 16 meses |
+
+**Ressalva importante:** este é o payback do *cenário-base do modelo* (churn 9%, CAC R$140, margem de contribuição ~30%), não um número validado com dados reais. Deve ser apresentado a investidores com essa ressalva explícita, e recalculado com os números reais assim que a Fase 0 (piloto) gerar histórico próprio (ver seção 13).
+
 ---
 
 ## 12. Escalabilidade e Modelo de Expansão
@@ -380,6 +391,29 @@ Esse modelo é conhecido no mercado de food-tech/last-mile como **"roll-up regio
 - **Aumento de densidade de entrega** (mais assinantes por rota = menor custo de última milha por pedido) — a maior alavanca de margem depois do CAC.
 - **Ampliação de sortimento** (add-ons: ovos, mel, pães, temperos) para aumentar ticket médio sem aumentar complexidade agrícola.
 - **B2B** (fruteira de escritório, parcerias com academias/coworkings) como segundo motor de crescimento dentro da mesma praça, aproveitando o mesmo CD.
+
+### 12.5 Modelo de franquia — expandir sem depender só de capital de investidor
+
+O modelo "CD-in-a-box" da seção 12.3 se presta naturalmente a franquia: a parte que exige capital pesado e recorrente (CD, frota, capital de giro, relação local com fornecedores) é justamente a parte que **não escala de graça** — e é exatamente o tipo de investimento que um operador local pode aportar, enquanto a matriz retém a parte que não pede capital por unidade nova (marca, tecnologia, playbook, poder de negociação nacional).
+
+**Divisão de responsabilidades:**
+
+| | Franqueadora (matriz) | Franqueado (operador local) |
+|---|---|---|
+| Aporta | Marca, apps (cliente + fornecedor), site, playbook operacional, treinamento, curva de aprendizado do piloto | Capital do CD local (R$ 275k–580k, seção 11.1), frota, capital de giro, relação com fornecedores em 100km, equipe |
+| Recebe | Taxa de franquia + royalty + fundo de marketing | Direito de operar a marca na praça, acesso à tecnologia pronta, suporte operacional |
+
+**Estrutura de remuneração da franqueadora (referência de mercado brasileiro de franquias):**
+
+| Componente | Valor sugerido | Racional |
+|---|---|---|
+| Taxa de franquia inicial | R$ 40.000 – 80.000 | Cobre treinamento, licença de marca e setup técnico — mais baixa que franquias de ponto físico porque não há loja para montar, é know-how + tecnologia |
+| Royalty mensal | 5% da receita bruta | Dentro da faixa típica de 4–8% no mercado brasileiro; compatível com a margem operacional do negócio (seção 11.2) |
+| Fundo de marketing | 1,5% da receita bruta | Compartilhado entre todas as unidades para campanhas de marca e evolução do app |
+
+**Efeito no payback do franqueado:** o royalty + fundo de marketing (6,5% da receita) reduz a margem de contribuição local, estendendo o payback calculado na seção 11.5 de ~11–16 meses para **~15–21 meses** (cálculo completo em `materiais-investidores/Modelo_Financeiro.xlsx`, aba "Payback e Franquia") — ainda dentro do padrão saudável para franquias no Brasil.
+
+**Como isso se encaixa no roadmap:** a matriz opera e financia apenas a **praça-piloto** (Curitiba, seção 2.4) para provar a unidade econômica e documentar o playbook (etapas 1–2 da seção 12.3). A partir da 2ª praça, em vez de captar mais equity para abrir cada CD, a expansão passa a ser licenciada a operadores locais — eles capitalizam a operação regional, a matriz fatura receita recorrente (royalty) sem diluir mais capital nem concentrar o risco operacional de múltiplas cidades na mesma estrutura. Isso também é um argumento de captação: mostra ao investidor que o capital dele financia a prova de conceito, não a expansão inteira do país.
 
 ---
 
